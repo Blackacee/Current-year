@@ -1,2 +1,5 @@
 # Current-year
-Current year code in JS 
+
+var year = (new Date()).getFullYear();
+console.log(year);
+// Sample output: 2023
